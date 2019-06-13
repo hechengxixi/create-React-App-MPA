@@ -1,0 +1,2 @@
+1. 此项目使用Create-React-App脚手架搭建
+2. 使用npm run eject 进行多页面配置修改
